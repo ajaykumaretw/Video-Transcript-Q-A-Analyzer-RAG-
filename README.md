@@ -1,5 +1,3 @@
-Certainly! Here's an overview of how the two files for your AI Video Content Analyzer project might function:
-
 1. App.py
 Purpose:
 Designed for handling video content analysis, specifically for smaller videos where synchronous processing is feasible.
